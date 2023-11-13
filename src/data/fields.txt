@@ -1,0 +1,65 @@
+Artificial intelligence
+Computer vision
+3D imaging
+3D computer graphics
+3D films
+Holography
+Graphical projections
+Geometry processing
+Image processing
+Image compression
+Digital photography
+Medical imaging
+Digital geometry
+Object recognition and categorization
+Image segmentation
+Machine learning
+Deep learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Ensemble learning
+Semisupervised learning
+Genetic programming
+Markov models
+Evolutionary algorithms
+Cluster analysis
+Applied machine learning
+Affective computing
+Sentiment analysis
+Multimodal sentiment analysis
+Artificial empathy
+Automated reasoning
+Automated theorem proving
+Rule engines
+Type inference
+Evolutionary computation
+Fuzzy logic
+Neural networks
+Artificial neural networks
+Neural circuits
+Robotics
+Self-driving cars
+Robot control
+Home automation
+Health care robotics
+Multi-robot systems
+Biorobotics
+Multi-agent systems
+Botnets
+Agent-based programming languages
+Knowledge representation
+Knowledge bases
+Semantic Web
+Ontology
+Lexical databases
+Belief revision
+Knowledge engineering
+Ontology alignment
+Rules extraction
+Decision support system
+Ontology engineering
+Logic programming
+Constraint programming
+Inductive logic programming
+Constraint logic programming

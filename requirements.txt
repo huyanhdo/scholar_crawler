@@ -1,0 +1,8 @@
+selenium==4.2.0
+selenium-wire==4.6.3
+python-decouple==3.3
+undetected-chromedriver==3.1.5.post4
+python-dotenv==0.20.0
+pydantic
+dm-pybloom
+loguru
