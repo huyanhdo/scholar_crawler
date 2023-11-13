@@ -2,3 +2,4 @@ myenv
 test.txt
 .src\data\scholar\
 .vscode\
+__pycache__/
